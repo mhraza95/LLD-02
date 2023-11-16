@@ -5,10 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="25cb1af4-42a3-4e6c-b4a0-e1ef24d6afdf" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/DesignPattern/BuilderPattern/Client.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DesignPattern/BuilderPattern/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DesignPattern/BuilderPattern/StudentBuilder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DesignPattern/RegistryPrototypePattern/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DesignPattern/RegistryPrototypePattern/Prototype.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DesignPattern/RegistryPrototypePattern/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DesignPattern/RegistryPrototypePattern/StudentRegistry.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DesignPattern/BuilderPattern/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DesignPattern/BuilderPattern/Student.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,13 +53,26 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Client">
+  <component name="RunManager" selected="Application.DesignPattern.RegistryPrototypePattern.Client">
     <configuration name="Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="DesignPattern.BuilderPattern.Client" />
       <module name="LLD-02" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="DesignPattern.BuilderPattern.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DesignPattern.RegistryPrototypePattern.Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DesignPattern.RegistryPrototypePattern.Client" />
+      <module name="LLD-02" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="DesignPattern.RegistryPrototypePattern.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -87,6 +102,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.DesignPattern.RegistryPrototypePattern.Client" />
         <item itemvalue="Application.Client" />
         <item itemvalue="Application.WeatherStation" />
         <item itemvalue="Application.MiniDuckSimulator" />
@@ -102,7 +118,7 @@
       <option name="presentableId" value="Default" />
       <updated>1697159426167</updated>
       <workItem from="1697159427229" duration="5549000" />
-      <workItem from="1698157091529" duration="12210000" />
+      <workItem from="1698157091529" duration="16080000" />
     </task>
     <servers />
   </component>
