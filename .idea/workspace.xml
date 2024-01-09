@@ -5,12 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="25cb1af4-42a3-4e6c-b4a0-e1ef24d6afdf" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/DesignPattern/RegistryPrototypePattern/Client.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DesignPattern/RegistryPrototypePattern/Prototype.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DesignPattern/RegistryPrototypePattern/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DesignPattern/RegistryPrototypePattern/StudentRegistry.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DesignPattern/FactoryMethod/Buttons/Button.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DesignPattern/FactoryMethod/Buttons/HtmlButton.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DesignPattern/FactoryMethod/Buttons/WindowsButton.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DesignPattern/BuilderPattern/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DesignPattern/BuilderPattern/Student.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -118,7 +116,9 @@
       <option name="presentableId" value="Default" />
       <updated>1697159426167</updated>
       <workItem from="1697159427229" duration="5549000" />
-      <workItem from="1698157091529" duration="16080000" />
+      <workItem from="1698157091529" duration="16790000" />
+      <workItem from="1702651941165" duration="1193000" />
+      <workItem from="1704279195014" duration="4737000" />
     </task>
     <servers />
   </component>
